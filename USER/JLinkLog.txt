@@ -1,0 +1,30 @@
+
+T1DE4 000:283 SEGGER J-Link V5.00k Log File (0000ms, 0265ms total)
+T1DE4 000:283 DLL Compiled: Jul 31 2015 15:48:52 (0000ms, 0265ms total)
+T1DE4 000:283 Logging started @ 2021-08-17 11:13 (0000ms, 0265ms total)
+T1DE4 000:283 JLINK_SetWarnOutHandler(...) (0000ms, 0265ms total)
+T1DE4 000:283 JLINK_OpenEx(...)
+Firmware: J-Link ARM-OB STM32 compiled Aug 22 2012 19:52:04
+Hardware: V7.00
+S/N: 20090928
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFull  returns O.K. (0272ms, 0537ms total)
+T1DE4 000:555 JLINK_SetErrorOutHandler(...) (0000ms, 0537ms total)
+T1DE4 000:555 JLINK_ExecCommand("ProjectFile = "C:\Users\dell\Desktop\E22-400\WALKER\USER\JLinkSettings.ini"", ...)  returns 0x00 (0002ms, 0539ms total)
+T1DE4 000:558 JLINK_ExecCommand("Device = STM32F103C8", ...)Device "STM32F103C8" selected.  returns 0x00 (0004ms, 0543ms total)
+T1DE4 000:562 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0543ms total)
+T1DE4 000:562 JLINK_GetHardwareVersion()  returns 0x11170 (0001ms, 0544ms total)
+T1DE4 000:563 JLINK_GetDLLVersion()  returns 50011 (0000ms, 0544ms total)
+T1DE4 000:563 JLINK_GetFirmwareString(...) (0000ms, 0544ms total)
+T1DE4 000:566 JLINK_GetDLLVersion()  returns 50011 (0000ms, 0544ms total)
+T1DE4 000:566 JLINK_GetCompileDateTime() (0000ms, 0544ms total)
+T1DE4 000:567 JLINK_GetFirmwareString(...) (0000ms, 0544ms total)
+T1DE4 000:567 JLINK_GetHardwareVersion()  returns 0x11170 (0000ms, 0544ms total)
+T1DE4 000:568 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0000ms, 0544ms total)
+T1DE4 000:569 JLINK_SetSpeed(3000) (0000ms, 0545ms total)
+T1DE4 000:569 JLINK_GetId() >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF>STM32Fxxxx: Cannot attach to CPU. Trying connect under reset. >0x108 TIF> >0x108 TIF>
+                JLINK_EMU_HasCapEx(0x0000002C)  returns 0x00 (0000ms, 0000ms total)
+                JLINK_EMU_HasCapEx(0x0000002C)  returns 0x00 (0000ms, 0000ms total)
+                returns 0x00000000 (0737ms, 1282ms total)
+T1DE4 002:864 JLINK_Close() (0000ms, 1282ms total)
+T1DE4 002:864  (0000ms, 1282ms total)
+T1DE4 002:864 Closed (0000ms, 1282ms total)
